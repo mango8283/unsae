@@ -1,4 +1,3 @@
-dzx.py
 import random
 import datetime
 import streamlit as st
